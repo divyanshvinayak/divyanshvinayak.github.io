@@ -1,0 +1,25 @@
+languages:
+  - item: C
+  - item: C++
+  - item: Python
+  - item: JavaScript
+  - item: Dart
+  - item: Java
+  - item: SQL
+  - item: HTML
+  - item: CSS
+
+frameworks:
+  - item: Flutter
+  - item: Node
+  - item: Express
+  - item: Socket
+  - item: Django
+  - item: Hadoop
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: MongoDB
+  - item: Jupyter
+  - item: VS Code

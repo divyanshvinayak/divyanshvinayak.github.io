@@ -1,0 +1,43 @@
+# Site settings
+name: Divyansh Vinayak
+title: Divyansh Vinayak | Software Engineer
+description: Undergrad student pursuing Bachelor's in Computer Science and Engineering at IIT Mandi. Passionate about using technology to solve challenging problems.
+url: https://divyanshvinayak.github.io/
+baseurl: ''
+email: divyanshvinayak@icloud.com
+cover: https://divyanshvinayak.github.io/img/og.png
+logo: https://divyanshvinayak.github.io/img/emojis/technologist.png
+resume: https://divyanshvinayak.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:divyanshvinayak@icloud.com
+  - title: twitter
+    url: https://twitter.com/RandommNumber
+  - title: instagram
+    url: https://instagram.com/divyansh.vinayak.8
+  - title: github
+    url: https://github.com/divyanshvinayak
+  - title: linkedin
+    url: https://www.linkedin.com/in/divyanshvinayak
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

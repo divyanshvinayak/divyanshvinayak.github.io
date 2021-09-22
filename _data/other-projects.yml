@@ -1,0 +1,61 @@
+- name: Rakt Kosh
+  url: https://github.com/divyanshvinayak/Rakt-Kosh
+  code: https://github.com/divyanshvinayak/Rakt-Kosh
+  description:
+    - thing: A web portal that can assists in managing the information of blood bag during its handling in the blood bank.
+    - thing: The user of this system can key in the result of blood test that has been conducted to each of the blood bag received by the blood bank.
+    - thing: The result of test will indicate whether the blood bag can be delivered to patient or not.
+    - thing: From this system, there are several type of report that can be generated such as blood stock report, donor’s gender report and the total of blood donation according to months and year.
+    - thing: The system also can give the information to the donor about blood analysis test result for each time the donor makes contribution.
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: Python
+    - thing: JavaScript
+    - thing: Django
+    - thing: MySQL
+
+- name: Unix Shell
+  url: https://divyanshvinayak.github.io/Unix-Shell/
+  code: https://github.com/divyanshvinayak/Unix-Shell
+  description:
+    - thing: Built a basic interactive shell that can execute processes in the foreground or background with input/output redirection and pipelining.
+    - thing: It supports changing the current working directory and providing related information about a particular process.
+  used:
+    - thing: C
+
+- name: Instant Messaging Application
+  url: https://divyanshvinayak.github.io/Instant-Messaging-Application/
+  code: https://github.com/divyanshvinayak/Instant-Messaging-Application
+  description:
+    - thing: Developed an Android application using Dart and the Flutter framework to send and receive text messages to other users individually or in groups.
+    - thing: Messages are delivered in realtime using the WebSocket based server deployed on Heroku.
+    - thing: It supports all CRUD operations and also has a typing indicator.
+  used:
+    - thing: Dart
+    - thing: Flutter
+    - thing: Node
+    - thing: Express
+    - thing: Socket
+    - thing: Hive
+    - thing: Heroku
+
+- name: Dynamic Segment Tree
+  url: https://divyanshvinayak.github.io/Dynamic-Segment-Tree/
+  code: https://github.com/divyanshvinayak/Dynamic-Segment-Tree
+  description:
+    - thing: Implemented a header file for dynamic segment tree by using the augmented red-black tree data structure.
+    - thing: It supports insertion, deletion, search, range query and update in logarithmic time complexity.
+    - thing: Ran a benchmark to compare its performance with a naive algorithm.
+  used:
+    - thing: C++
+
+- name: Indexed Red-Black Tree
+  url: https://divyanshvinayak.github.io/Indexed-Red-Black-Tree/
+  code: https://github.com/divyanshvinayak/Indexed-Red-Black-Tree
+  description:
+    - thing: Implemented a header file for indexed red-black tree by using the augmented red-black tree data structure.
+    - thing: It supports insertion, deletion and search by index in logarithmic time complexity.
+    - thing: Ran a benchmark to compare its performance with a naive algorithm.
+  used:
+    - thing: C++
