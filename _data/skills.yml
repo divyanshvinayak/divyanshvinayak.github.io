@@ -1,0 +1,26 @@
+languages:
+  - item: C
+  - item: C++
+  - item: Python
+  - item: JavaScript
+  - item: Dart
+  - item: Java
+  - item: SQL
+  - item: HTML
+  - item: CSS
+
+frameworks:
+  - item: Flutter
+  - item: Node.js
+  - item: Express
+  - item: Socket.IO
+  - item: Django
+  - item: Hadoop
+
+tools:
+  - item: Zsh
+  - item: Git & Github
+  - item: MongoDB
+  - item: Jupyter
+  - item: Heroku
+  - item: VirtualBox

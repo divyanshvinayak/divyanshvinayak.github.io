@@ -1,0 +1,28 @@
+{
+  "name": "divyanshvinayak.com",
+  "version": "0.0.0",
+  "description": "Passionate about using technology to solve challenging problems",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divyanshvinayak/divyanshvinayak.github.io"
+  },
+  "homepage": "https://github.com/divyanshvinayak/divyanshvinayak.github.io",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp serve --watch",
+    "build": "gulp build"
+  },
+  "author": "Divyansh Vinayak",
+  "license": "ISC",
+  "devDependencies": {
+    "@nuscout/eslint-config": "^0.2.1",
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}

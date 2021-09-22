@@ -1,0 +1,57 @@
+- name: Fake Face Image Classification
+  url: https://github.com/divyanshvinayak/Fake-Face-Image-Classification-Challenge
+  code: https://github.com/divyanshvinayak/Fake-Face-Image-Classification-Challenge
+  description:
+    - thing: Classified images of human faces as real or fake by using the stacking ensemble based deep learning model utilizing InceptionV3 and VGG16 as base learners and achieved a mean F-score of 0.977.
+    - thing: Improved the performance of model using techniques like data augmentation and XGBoost gradient boosting algorithm.
+  used:
+    - thing: Python
+    - thing: TensorFlow
+    - thing: XGBoost
+
+- name: Diabetes Prediction
+  url: https://github.com/divyanshvinayak/Diabetes-Prediction
+  code: https://github.com/divyanshvinayak/Diabetes-Prediction
+  description:
+    - thing: Compared various statistical learning models like KNN, Naive Bayes, logistic regression and SVM to predict whether a patient has diabetes or not based on certain diagnostic measurements.
+    - thing: Utilized data preprocessing methods to clean and normalize the data and dropped insignificant features.
+    - thing: Used hyperparameter tuning to select the optimal model architecture for each model.
+  used:
+    - thing: Python
+    - thing: scikit-learn
+
+- name: Instant Messaging Application
+  url: https://github.com/divyanshvinayak/Instant-Messaging-Application
+  code: https://github.com/divyanshvinayak/Instant-Messaging-Application
+  description:
+    - thing: Developed an Android application using Dart and the Flutter framework to send and receive text messages to other users individually or in groups.
+    - thing: Messages are delivered in realtime using the WebSocket based server deployed on Heroku.
+    - thing: It supports all CRUD operations and also has a typing indicator.
+  used:
+    - thing: Dart
+    - thing: Flutter
+    - thing: Node.js
+    - thing: Express
+    - thing: Socket.IO
+    - thing: Hive
+    - thing: Heroku
+
+- name: Dynamic Segment Tree
+  url: https://github.com/divyanshvinayak/Dynamic-Segment-Tree
+  code: https://github.com/divyanshvinayak/Dynamic-Segment-Tree
+  description:
+    - thing: Implemented a header file for dynamic segment tree by using the augmented red-black tree data structure with lazy propagation.
+    - thing: It supports insertion, deletion, search, range query and update in logarithmic time complexity.
+    - thing: Ran a benchmark to compare its performance with a naive algorithm.
+  used:
+    - thing: C++
+
+- name: Indexed Red-Black Tree
+  url: https://github.com/divyanshvinayak/Indexed-Red-Black-Tree
+  code: https://github.com/divyanshvinayak/Indexed-Red-Black-Tree
+  description:
+    - thing: Implemented a header file for indexed red-black tree by using the augmented red-black tree data structure.
+    - thing: It supports insertion, deletion and search by index in logarithmic time complexity.
+    - thing: Ran a benchmark to compare its performance with a naive algorithm.
+  used:
+    - thing: C++
